@@ -1,0 +1,266 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Jul 2023 17:20:53 at https://medic.mhrtheme.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://medic.mhrtheme.com/ -O1 "C:\Users\SofiyanSaboor\Desktop\DRPRASHANT\DRPRASHANT" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:23:21	Warning: 	Found for https://medic.mhrtheme.com/checkout/
+17:23:21	Warning: 	File has moved from https://medic.mhrtheme.com/checkout/ to https://medic.mhrtheme.com/cart/
+17:23:58	Error: 	"Not Found" (404) at link https://medic.mhrtheme.com/404-error-page (from https://medic.mhrtheme.com/)
+17:24:17	Error: 	"Not Found" (404) at link https://medic.mhrtheme.com/wp-content/themes/medic/assets/css/owl.video.play.png (from https://medic.mhrtheme.com/wp-content/themes/medic/assets/css/owl.carousel.min.css?ver=1.1)
+17:24:18	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=84
+17:24:18	Warning: 	File has moved from https://medic.mhrtheme.com/?p=84 to https://medic.mhrtheme.com/homepage-style-two/
+17:24:25	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=444
+17:24:25	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:24:26	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=443
+17:24:26	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:24:43	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=442
+17:24:43	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:24:45	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=441
+17:24:45	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:24:48	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=440
+17:24:48	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:24:51	Warning: 	Found for https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=439
+17:24:51	Warning: 	File has moved from https://medic.mhrtheme.com/homepage-style-two/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=908
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=908 to https://medic.mhrtheme.com/one-page-home/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=444
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=443
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=442
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=441
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=440
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/one-page-home/?add-to-cart=439
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/one-page-home/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=966
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=966 to https://medic.mhrtheme.com/boxed-homepage/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=444
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=443
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=442
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=441
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=440
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Found for https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=439
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/boxed-homepage/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=972
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=972 to https://medic.mhrtheme.com/dark-homepage/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=40
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=40 to https://medic.mhrtheme.com/about-style-one/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=44
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=44 to https://medic.mhrtheme.com/about-style-two/
+17:25:04	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=50
+17:25:04	Warning: 	File has moved from https://medic.mhrtheme.com/?p=50 to https://medic.mhrtheme.com/department-grid/
+17:25:05	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=52
+17:25:05	Warning: 	File has moved from https://medic.mhrtheme.com/?p=52 to https://medic.mhrtheme.com/department-slider/
+17:25:05	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=343
+17:25:05	Warning: 	File has moved from https://medic.mhrtheme.com/?p=343 to https://medic.mhrtheme.com/medic-departments/brain/
+17:25:10	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=342
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/?p=342 to https://medic.mhrtheme.com/medic-departments/dental-care/
+17:25:10	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=341
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/?p=341 to https://medic.mhrtheme.com/medic-departments/pulmonary/
+17:25:10	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=62
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/?p=62 to https://medic.mhrtheme.com/shop-grid/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=444
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=443
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=442
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=441
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=440
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/?add-to-cart=439
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:10	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=64
+17:25:10	Warning: 	File has moved from https://medic.mhrtheme.com/?p=64 to https://medic.mhrtheme.com/shop-slider/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=438
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=438 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=439
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=440
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=441
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=442
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-slider/?add-to-cart=443
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-slider/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=470
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/?p=470 to https://medic.mhrtheme.com/shop-list/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=444
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=443
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=442
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=441
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=440
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:14	Warning: 	Found for https://medic.mhrtheme.com/shop-list/?add-to-cart=439
+17:25:14	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:16	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=443
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/?p=443 to https://medic.mhrtheme.com/product/digital-bp-monitor/
+17:25:16	Warning: 	Found for https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=444
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:16	Warning: 	Found for https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=442
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:16	Warning: 	Found for https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=440
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-bp-monitor/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:16	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=9
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/?p=9 to https://medic.mhrtheme.com/cart/
+17:25:16	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=11
+17:25:16	Warning: 	File has moved from https://medic.mhrtheme.com/?p=11 to https://medic.mhrtheme.com/my-account/
+17:25:19	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=54
+17:25:19	Warning: 	File has moved from https://medic.mhrtheme.com/?p=54 to https://medic.mhrtheme.com/blog-grid/
+17:25:19	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=56
+17:25:19	Warning: 	File has moved from https://medic.mhrtheme.com/?p=56 to https://medic.mhrtheme.com/blog-slider/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=58
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=58 to https://medic.mhrtheme.com/blog-left-sidebar/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=60
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=60 to https://medic.mhrtheme.com/blog-right-sidebar/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=366
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=366 to https://medic.mhrtheme.com/aspirin-for-prevention/
+17:25:24	Error: 	"Method Not Allowed" (405) at link https://medic.mhrtheme.com/xmlrpc.php (from https://medic.mhrtheme.com/aspirin-for-prevention/)
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=365
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=365 to https://medic.mhrtheme.com/new-operating-suites/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=364
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=364 to https://medic.mhrtheme.com/medical-specialty-health/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=74
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=74 to https://medic.mhrtheme.com/appointment-style-one/
+17:25:24	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=708
+17:25:24	Warning: 	File has moved from https://medic.mhrtheme.com/?p=708 to https://medic.mhrtheme.com/appointment-style-two/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=66
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=66 to https://medic.mhrtheme.com/doctor-grid/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=68
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=68 to https://medic.mhrtheme.com/doctor-slider/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=70
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=70 to https://medic.mhrtheme.com/testimonial-grid/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=72
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=72 to https://medic.mhrtheme.com/testimonial-slider/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=76
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=76 to https://medic.mhrtheme.com/frequently-asked-questions/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=2
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=2 to https://medic.mhrtheme.com/page-no-sidebar/
+17:25:26	Warning: 	Found for https://medic.mhrtheme.com/wp-admin/
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/wp-admin/ to https://medic.mhrtheme.com/wp-login.php?redirect_to=https%3A%2F%2Fmedic.mhrtheme.com%2Fwp-admin%2F&reauth=1
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=78
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=78 to https://medic.mhrtheme.com/page-left-sidebar/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=80
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=80 to https://medic.mhrtheme.com/page-right-sidebar/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=46
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=46 to https://medic.mhrtheme.com/contact-style-one/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=48
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=48 to https://medic.mhrtheme.com/contact-style-two/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=340
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=340 to https://medic.mhrtheme.com/medic-departments/cardiology/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=339
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=339 to https://medic.mhrtheme.com/medic-departments/eye-care/
+17:25:26	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=338
+17:25:26	Warning: 	File has moved from https://medic.mhrtheme.com/?p=338 to https://medic.mhrtheme.com/medic-departments/neurology/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=335
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=335 to https://medic.mhrtheme.com/medic-departments/medicine/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=444 to https://medic.mhrtheme.com/product/digital-monitor/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=441
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/digital-monitor/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/armani/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/armani/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/armani/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/armani/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/armani/?add-to-cart=440
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/armani/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=441
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/moshi/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/canada/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/canada/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/canada/?add-to-cart=442
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/canada/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=442
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=442 to https://medic.mhrtheme.com/product/non-touch-thermometer/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/non-touch-thermometer/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/non-touch-thermometer/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=441
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=441 to https://medic.mhrtheme.com/product/patient-monitor/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/patient-monitor/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/patient-monitor/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/patient-monitor/?add-to-cart=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/patient-monitor/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=440
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=440 to https://medic.mhrtheme.com/product/object-thermometer/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/object-thermometer/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/object-thermometer/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/object-thermometer/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/object-thermometer/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=439 to https://medic.mhrtheme.com/product/esperanza-inhaler/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/esperanza-inhaler/?add-to-cart=441
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/esperanza-inhaler/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product/esperanza-inhaler/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product/esperanza-inhaler/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/turnout/?add-to-cart=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/turnout/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=438
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=438 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=443
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=443 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=444
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=444 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=439
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=439 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=442
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=442 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop/?add-to-cart=440
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop/?add-to-cart=440 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=363
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=363 to https://medic.mhrtheme.com/leading-you-to-health/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=362
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=362 to https://medic.mhrtheme.com/the-culture-of-care/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=361
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=361 to https://medic.mhrtheme.com/a-healing-presence/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/department-grid/page/1/
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/department-grid/page/1/ to https://medic.mhrtheme.com/department-grid/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop-grid/page/2/?add-to-cart=438
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/page/2/?add-to-cart=438 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/shop-grid/page/1/
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop-grid/page/1/ to https://medic.mhrtheme.com/shop-grid/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=438
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=438 to https://medic.mhrtheme.com/product/bp-machine/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/product-category/switch/?add-to-cart=438
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/product-category/switch/?add-to-cart=438 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Found for https://medic.mhrtheme.com/shop-list/page/2/?add-to-cart=438
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/page/2/?add-to-cart=438 to https://medic.mhrtheme.com/cart/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/shop-list/page/1/
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/shop-list/page/1/ to https://medic.mhrtheme.com/shop-list/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=3
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=3 to https://medic.mhrtheme.com/privacy-policy/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=367
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=367 to https://medic.mhrtheme.com/medical-healing-presence/
+17:25:27	Warning: 	Moved Permanently for https://medic.mhrtheme.com/?p=368
+17:25:27	Warning: 	File has moved from https://medic.mhrtheme.com/?p=368 to https://medic.mhrtheme.com/leading-speciality-health/
+17:25:30	Warning: 	Found for https://medic.mhrtheme.com/shop/page/2/?add-to-cart=441
+17:25:30	Warning: 	File has moved from https://medic.mhrtheme.com/shop/page/2/?add-to-cart=441 to https://medic.mhrtheme.com/cart/
+17:25:30	Warning: 	Moved Permanently for https://medic.mhrtheme.com/shop/page/1/
+17:25:30	Warning: 	File has moved from https://medic.mhrtheme.com/shop/page/1/ to https://medic.mhrtheme.com/shop/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 38 seconds : 674 links scanned, 544 files written (29010842 bytes overall) [12383590 bytes received at 44545 bytes/sec], 22194273 bytes transferred using HTTP compression in 473 files, ratio 22%, 24.0 requests per connection
+(3 errors, 252 warnings, 0 messages)
