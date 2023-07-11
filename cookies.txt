@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_cd3bf179bca564afcb863f92be8ef80f	t_f434eee176ada4873d423245849335%7C%7C1689076327%7C%7C1689072727%7C%7C220bd5e5e4270c553bf2cac1468116bd
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	PHPSESSID	a76777904c771129ad1b20a72fbe9d5e
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	rand_code_1	64aa9fc8dcf4d
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
-medic.mhrtheme.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	42c8ae86e2d78242a014411d7ecef623
-
